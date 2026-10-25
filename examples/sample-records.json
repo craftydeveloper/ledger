@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "entry-1",
+      "title": "Synthetic salary",
+      "date": "2026-01-01",
+      "direction": "income",
+      "category": "salary",
+      "amount": 1000,
+      "currency": "USD",
+      "synthetic": true
+    },
+    {
+      "id": "entry-2",
+      "title": "Synthetic groceries",
+      "date": "2026-01-03",
+      "direction": "expense",
+      "category": "food",
+      "amount": 42.5,
+      "currency": "USD",
+      "synthetic": true
+    }
+  ]
+}
